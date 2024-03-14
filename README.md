@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varsha-Luthra2206
-- 👀 I’m interested in Working Coding
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Follow me on Linkedin Varsha Luthra
